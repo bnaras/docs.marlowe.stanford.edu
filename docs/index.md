@@ -1,6 +1,7 @@
 # Welcome to Marlowe!
 
-Marlowe is a High Performance Computing (HPC) Cluster managed by Stanford Research Computing.
+Marlowe is a High Performance Computing (HPC) Cluster overseen and managed by Stanford Data Science with the help of Stanford Research Computing.
+
 
 It composes of an Nvidia DGX H100 Superpod, 2.5PB of DDN ExaScaler Lustre storage, and 3PB of DDN Intelliflash storage.
 
